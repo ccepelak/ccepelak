@@ -2,7 +2,8 @@
 - ✨ Hi, I'm <b>Christine! </b>
 - 📊 I’m currently working on <b>Data Science for Public Policy </b>
 - 🌱 Learning at <b> the [Hertie School of Governance](https://www.hertie-school.org/en/) </b>
-- 👯 Organizing for <b>PyLadies and Women in AI</b>
+- 👯 Organizing with <b>PyLadies, Women in AI & Data Science for Social Good</b>
+- 🎤 Moderator of the [Ethics in AI Open Coffee Club](https://www.meetup.com/coffee-ethics-ai/)
 - 💃🏻 Pronouns: <b>she/her</b>
 
 
